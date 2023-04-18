@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sergey\\source\\repos\\SchholTestingSystem\\SchholTestingSystem\\SchholTestingSystem.csproj",
-      "projectName": "SchholTestingSystem",
-      "projectPath": "C:\\Users\\Sergey\\source\\repos\\SchholTestingSystem\\SchholTestingSystem\\SchholTestingSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Sergey\\source\\repos\\SchholTestingSystem\\SchholTestingSystem\\SchoolTestingSystem.csproj",
+      "projectName": "SchoolTestingSystem",
+      "projectPath": "C:\\Users\\Sergey\\source\\repos\\SchholTestingSystem\\SchholTestingSystem\\SchoolTestingSystem.csproj",
       "packagesPath": "C:\\Users\\Sergey\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Sergey\\source\\repos\\SchholTestingSystem\\SchholTestingSystem\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,7 +1,7 @@
 ﻿SchholTestingSystem
 1.0.0.0
 
-winexe
+exe
 C#
 .cs
 C:\Users\Sergey\source\repos\SchholTestingSystem\SchholTestingSystem\obj\Debug\net6.0-windows\
@@ -16,5 +16,5 @@ C:\Users\Sergey\source\repos\SchholTestingSystem\SchholTestingSystem\App.xaml
 194237474483
 Controls\HelpControl.xaml;Controls\HomeControl.xaml;Controls\NewsControl.xaml;Controls\SettingsControl.xaml;Controls\TestControl.xaml;MainWindow.xaml;
 
-False
+True
 
