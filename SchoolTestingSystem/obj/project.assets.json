@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sergey\\source\\repos\\SchholTestingSystem\\SchholTestingSystem\\SchoolTestingSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Sergey\\source\\repos\\SchoolTestingSystem\\SchoolTestingSystem\\SchoolTestingSystem.csproj",
       "projectName": "SchoolTestingSystem",
-      "projectPath": "C:\\Users\\Sergey\\source\\repos\\SchholTestingSystem\\SchholTestingSystem\\SchoolTestingSystem.csproj",
+      "projectPath": "C:\\Users\\Sergey\\source\\repos\\SchoolTestingSystem\\SchoolTestingSystem\\SchoolTestingSystem.csproj",
       "packagesPath": "C:\\Users\\Sergey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sergey\\source\\repos\\SchholTestingSystem\\SchholTestingSystem\\obj\\",
+      "outputPath": "C:\\Users\\Sergey\\source\\repos\\SchoolTestingSystem\\SchoolTestingSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sergey\\AppData\\Roaming\\NuGet\\NuGet.Config",
